@@ -1,4 +1,4 @@
-# Data For Study: header 1
+# Data For Study: Header 1
 
 ## Header 2
 
